@@ -19,3 +19,8 @@ The PCB has additional pads to solder wires straight from the keyboards connecto
 - [x] Design a PCB [Rev 1.0 is being tested]
 - [ ] Design a case
 - [ ] Try to write own conversion software
+
+# Sources and helpful links
+- [Soarer's geekhack thread](https://geekhack.org/index.php?topic=51079.msg1127174#msg1127174)(some of the images aren't rendering so [here is an archived version](https://web.archive.org/web/20230822022830/https://geekhack.org/index.php?topic=51079.0))
+- [Soarer's deskthority thread](https://deskthority.net/viewtopic.php?t=7424)
+- [A guide for Pro Micro conversion with Soarer's](https://jorts.tech/projects/promicro-soarers-guide)(contains a thorough guide for the Soarer's mod and mentions other useful sources)
