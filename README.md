@@ -8,6 +8,11 @@ The PCB features dedicated pads to solder wires straight from the keyboards conn
 
 A Pro Micro microcontroller is mounted on the bottom of the board, with components facing the PCB. Also using a socket for an MCU is highly recommended. After veryfing that your Wyse keyboard works with the firmware, simply solder a 4P4C connector and plug in an old RJ9/RJ10/RJ22 (afaik they are all the same) roll-over (crossed) cable.
 
+## Frontside
+![frontside of the pcb](./assets/pcb_front.png)
+
+## Backside
+![backside of the pcg](./assets/pcb_back.png)
 # Parts List
 - the PCB
 - Pro Micro like board (with ATmega32U4) 
