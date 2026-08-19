@@ -3293,7 +3293,7 @@
 		)
 	)
 	(gr_text "USB CONVERTER \nFOR WYSE 4P4C KEYBOARDS"
-		(at 145.796 88.773 270)
+		(at 148.717 111.887 90)
 		(layer "F.SilkS")
 		(uuid "c32eb14f-c49d-41a2-85f7-56ec037d88d4")
 		(effects
@@ -3401,7 +3401,7 @@
 		)
 	)
 	(gr_text "FLIP THE PRO MICRO SO THAT \nTHE USB IS FACING THE PCB"
-		(at 145.923 111.887 270)
+		(at 148.717 88.9 90)
 		(layer "B.SilkS")
 		(uuid "fe83901e-241e-4380-b4d7-206d0814d184")
 		(effects
