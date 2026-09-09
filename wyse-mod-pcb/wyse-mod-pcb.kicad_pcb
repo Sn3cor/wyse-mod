@@ -3390,7 +3390,7 @@
 		)
 	)
 	(gr_text "REV 1.0"
-		(at 154.637 113.723 0)
+		(at 156.845 113.723 0)
 		(layer "B.SilkS")
 		(uuid "f172412b-8025-4f68-8dd1-2dbbc0d8569b")
 		(effects

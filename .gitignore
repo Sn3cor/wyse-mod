@@ -43,3 +43,4 @@ fp-info-cache
 *.kicad_prl
 
 *.DS_STORE
+.cursor/*
